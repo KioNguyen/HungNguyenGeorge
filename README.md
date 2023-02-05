@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HungNguyenGeorge
+- 👋 Hi, I’m @KioNguyen
 - 👀 I’m interested in "Code + Trekking"
 - 🌱 I’m currently learning NESTJS, NEXTJS, AWS
 - 💞️ I’m looking to collaborate on REMOTE option or any flexible method 
